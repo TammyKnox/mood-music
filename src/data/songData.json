@@ -1,0 +1,58 @@
+{
+    "Happy": [
+        {
+            "title":"Closer Than Two of A Kind",
+            "artist":"Jaydan Talley",
+            "cover":"Closer-happy.jpg",
+            "mp3":"ES_Closer.mp3"
+        },
+        {
+            "title":"Do You Read Me (Ndy Remix)",
+            "artist":"Seroa feat. Emalee",
+            "cover":"Read-happy.jpg",
+            "mp3":"ES_Read.mp3"
+        }
+    ],
+    "Sad": [
+        {
+            "title":"Ebb",
+            "artist":"Bomuli",
+            "cover":"ebb-sad.jpg",
+            "mp3":"ES_ebb.mp3"
+        },
+        {
+            "title":"Chronicle of a Monday",
+            "artist":"Franz Gordon",
+            "cover":"Chronicles-sad.jpg",
+            "mp3":"ES_Chronicle.mp3"
+        }
+    ],
+    "Angry": [
+        {
+            "title":"Doomsday",
+            "artist":"Blue Steel",
+            "cover":"Doomsday-angry.jpg",
+            "mp3":"ES_Doomsday.mp3"
+        },
+        {
+            "title":"Blurry",
+            "artist":"Bankston",
+            "cover":"Blurry-angry.jpg",
+            "mp3":"ES_Blurry.mp3"
+        }
+    ],
+    "Indifferent": [
+        {
+            "title":"Need You Back",
+            "artist":"Milva",
+            "cover":"Need-You-laid-back.jpg",
+            "mp3":"ES_Need-You.mp3"
+        },
+        {
+            "title":"Sane",
+            "artist":"Janset",
+            "cover":"Sane-laid-back.jpg",
+            "mp3":"ES_Sane.mp3"
+        }
+    ]
+}
